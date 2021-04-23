@@ -1,5 +1,5 @@
 # Hello-Puppeteer
-Puppeteer与Cypress均是用于前端E2E测试的一个工具，二者的比较可参考这里：[]()
+Puppeteer与Cypress均是用于前端E2E测试的一个工具，二者的比较可参考这里：[https://chercher.tech/puppeteer/puppeteer-vs-cypress](https://chercher.tech/puppeteer/puppeteer-vs-cypress)
 
 ## Specification
 
