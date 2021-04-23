@@ -1,6 +1,5 @@
 # Hello-Puppeteer
-Puppeteer
-Cypress前端自动化工具最佳实践，给出了一些在自动化测试中常见的测试用例的例子。
+Puppeteer与Cypress均是用于前端E2E测试的一个工具，二者的比较可参考这里：[]()
 
 ## Specification
 
