@@ -14,10 +14,6 @@ Requires Node.js 6+
 
 ## Prepare to run in local environment
 
-- yarn / npm install
-- yarn serve / npm run serve
-- visit http://localhost:8080/
-- npm run cypress / yarn cypress (启动Cypress服务之后，你可以在根目录下看到命名为`cypress`的文件夹，下面存放着很多测试用例的例子)
-- 录屏功能: `npm run cy:video`
+- env PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true npm i puppeteer –D (这种方式是为了在安装过程中不下载`Chormium`，因为下载`Chormium`的过程非常慢，甚至会导致失败)
 - Cypress还有一个正在实验的功能就是，根据用户在界面上的点击操作，成成code到你使用的IDE中，不再需要用户自己手写测试用例了。需要添加`"experimentalStudio": true`到`cypress.json`文件中，插件下载：[https://chrome.google.com/webstore/detail/cypress-recorder/glcapdcacdfkokcmicllhcjigeodacab](https://chrome.google.com/webstore/detail/cypress-recorder/glcapdcacdfkokcmicllhcjigeodacab)
 ## Demo演示
