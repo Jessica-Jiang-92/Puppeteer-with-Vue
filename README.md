@@ -20,3 +20,5 @@ Requires Node.js 6+
 - Cypress还有一个正在实验的功能就是，根据用户在界面上的点击操作，成成code到你使用的IDE中，不再需要用户自己手写测试用例了。需要添加`"experimentalStudio": true`到`cypress.json`文件中，插件下载：[https://chrome.google.com/webstore/detail/cypress-recorder/glcapdcacdfkokcmicllhcjigeodacab](https://chrome.google.com/webstore/detail/cypress-recorder/glcapdcacdfkokcmicllhcjigeodacab)
 
 ## Demo演示
+
+
