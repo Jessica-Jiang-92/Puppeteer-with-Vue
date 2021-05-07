@@ -17,6 +17,7 @@ Requires Node.js 6+
 ## Prepare to run in local environment
 
 - env PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true npm i puppeteer –D (这种方式是为了在安装过程中不下载`Chormium`，因为下载`Chormium`的过程非常慢，甚至会导致失败)
+- node xxxx.js / supervisor xxxx.js（已经全局安装supervisor）
 
 ## Demo演示
 
