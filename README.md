@@ -1,5 +1,5 @@
 # Hello-Puppeteer
-Puppeteer与Cypress均是用于前端E2E测试的一个工具，二者的比较可参考这里：[https://chercher.tech/puppeteer/puppeteer-vs-cypress](https://chercher.tech/puppeteer/puppeteer-vs-cypress)
+[Puppeteer](https://developers.google.com/web/tools/puppeteer)与[Cypress](https://www.cypress.io/)均是用于前端E2E测试的一个工具，二者的比较可参考这里：[https://chercher.tech/puppeteer/puppeteer-vs-cypress](https://chercher.tech/puppeteer/puppeteer-vs-cypress)
 - Cypress相比较Puppeteer而言，对用户更加友好
 - 近5年的下载量显示，使用Cypress的人越来越多
 
