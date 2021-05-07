@@ -17,7 +17,7 @@ Requires Node.js 6+
 ## Prepare to run in local environment
 
 - env PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true npm i puppeteer –D (这种方式是为了在安装过程中不下载`Chormium`，因为下载`Chormium`的过程非常慢，甚至会导致失败)
-- puppeteer实质上是基于nodeJS来实现的，所以直接用node启动即可：`node xxxx.js`或 `supervisor xxxx.js`（已经全局安装supervisor，实现的是实时编译）
+- puppeteer实质上是基于nodeJS来实现的，所以直接用node启动即可：`node xxxx.js`或 `supervisor xxxx.js（已经全局安装supervisor，实现的是实时编译）`
 
 ## Demo演示
 
